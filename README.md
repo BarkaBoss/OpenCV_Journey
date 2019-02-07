@@ -6,4 +6,5 @@
 In a plight to build a facial recognition systems the ability to recognise faces is important to narrow down the location os available faces, using frontal-face and eye haarcascades you can achieve the following image
 [Find Code Here](https://github.com/BarkaBoss/OpenCV_Journey/blob/master/detectFaceEye.py)
 
+
 ![Face Detection](face_n_eye.jpg)
