@@ -15,5 +15,5 @@ In a plight to build a facial recognition systems the ability to recognise faces
 Like sketch using canny edges can be a fun effect but can also be used in self driving vehicles lane detection
 [Find Code Here](/LiveDetection.py)
 
-![Clip of effect](https://youtu.be/d1yd4HfwmGQ)
+[Clip of effect](https://youtu.be/d1yd4HfwmGQ)
 
